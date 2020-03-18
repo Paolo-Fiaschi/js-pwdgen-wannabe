@@ -16,4 +16,4 @@ var colorePreferito;
 // chiedere colore preferito all'utente
 colorePreferito = prompt("Scrivi il tuo colore preferito");
 // suggerire pw all'utente
-document.getElementById('yo').innerHTML = nomeUtente + cognomeUtente + colorePreferito +"19";
+document.getElementById('yo').innerHTML = "La tua password 'sicurissima' è: " + nomeUtente + cognomeUtente + colorePreferito +"19";
